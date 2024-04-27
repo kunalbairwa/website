@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+
+
+body{
+    background-color: rgb(221, 221, 221);
+    box-shadow: 4px 4px 4px 4px #fafafa;
+}
+
+.logo{
+    width: 30px;
+    height: 10px;
+}
+
+.container{
+    width: 100vh;
+    background-color: rgb(255, 255, 255);
+    height:190vh;
+    justify-content: center;
+    margin: auto;
+    
+}
+.footer{
+    width: 100vh;
+    height: 350px;
+    background-color: rgb(0, 0, 54);
+}
+
+.access{
+    margin-top: 100px;
+    width: 100vh;
+    height: 250px;
+    background-color:rgb(96, 96, 176)
+}
+
+.text3{
+    padding-top: 50px;
+    padding-left: 20px;
+    color: #fff;
+
+}
+
+.text3 h2{
+    margin-left: -5px;
+}
+
+.src{
+    float: right;
+    margin-top: -100px;
+    margin-right: 30px;
+
+}
+
+.butten{
+    float: right;
+    margin-top: -70px;
+    margin-right:130px;
+    background-color: rgb(94, 147, 254);
+}
+.side{
+    float: right;
+    
+}
+
+
+.nav{
+    display: flex;
+    padding-top:10px;
+    padding-left: 30px;
+    
+}
+
+.links{
+    font-size: 22px;
+    margin-left: 450px;
+     ;
+}
+
+a{
+    margin: 10px;
+}
+
+
+.mail{
+   margin-top: 100px;
+    width: 100vh;
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+}
+.hyper{
+    margin-top: -50px;
+     width: 100vh;
+     background-color: rgb(255, 255, 255);
+ }
+
+.mg{   
+   margin: 10px;
+
+}
+ .card{
+    border-radius: 1rem;
+    margin-left: 30px;
+    width: 300px;
+    height: 200px;
+    /* display: flex; */
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px 3px #e0e0e0;
+ }
+ .card img{
+    float: left;
+    margin-top: 30px;
+    border-radius: 5rem;
+    margin-left: 20px;
+ }
+.card p{
+    padding: 10px;
+}
+
+ .text2{
+    padding-top:30px;
+ }
+
+
+.text{
+    padding: 30px;
+   
+}
+
+h2{
+    margin: 10px;
+}
+
+
+
+input{
+    margin-left: 40px;
+    width: 250px;
+    height: 35px;
+}
+button{
+    margin-left: 10px;
+    width: 150px;
+    height: 35px;
+    background-color: rgb(55, 55, 245);
+    color: #fff;
+    border: none;
+}
+
+h2{
+    font-size: 32px;    
+    font-family: sans-serif;
+}
+
+img{
+    float: right;
+    margin-top: -200px;
+}
+
+.main svg{
+        margin-left: 400px;
+}
+
+
